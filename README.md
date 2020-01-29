@@ -1,7 +1,10 @@
+<div align="center">
+  <img src="./dotSafely/static/women-rights.svg" width="200px" height="250px"></img>
+
 # `Safely`
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
+</div> 
 Safely helps women to navigate routes in a safe manner by providing three main features: 
 
 - Safe routes
@@ -13,7 +16,7 @@ Allows users to mark a place as Unsafe, and displays safer routes, with timer al
 -----------------------------------------------
 ## How it Works
 
-* We use `CROWSOURCED` Reviews of people marking a place as unsafe and  `GeoJSON Data` of Cities which inform about the shops, restaurants etc that are open along the route between source to destination
+* We use `CROWDSOURCED` Reviews of people marking a place as unsafe and  `GeoJSON Data` of Cities which inform about the shops, restaurants etc that are open along the route between source to destination
 
 * Based on this parameters, we render two or three safest routes possible among multiple routes such that the unsafe zones are avoided and active zones are included
 -----------------------------------------------
@@ -86,12 +89,7 @@ Create Mongo Collections for:
 
 
 
------------------------------------------------
-## Built With
 
-* [Django](https://www.djangoproject.com)
-* [HEREMaps](https://developer.here.com/c/mapAPIs?cid=Other-Google-MM-T4-Dev-Brand-E&utm_source=Google&utm_medium=ppc&utm_campaign=Dev_PaidSearch_DevPortal_AlwaysOn&gclid=CjwKCAiAh5_uBRA5EiwASW3IaplFdLkFaSmTyjhYPlNGVZLHpIdJ8wmXqqaPy1JkK6OucFfYFrWLwhoC6F4QAvD_BwE&gclsrc=aw.ds) - The MAPs API
-* [LeafletJS](https://leafletjs.com/)
 
 -----------------------------------------------
 ## Future Enhancements
@@ -116,9 +114,7 @@ Create Mongo Collections for:
 
 -----------------------------------------------
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+ This project was developed under 30-hours from scratch at `Dotslash 3.0 hackathon`, conducted by SVNIT, Surat and secured a `Special Mention in the All-Women's Category for hacking the theme Women's Safety`
 
 -----------------------------------------------
 
